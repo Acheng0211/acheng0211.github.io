@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "sz-CN"
-title                    : "Acheng's site"
+title                    : "Huang, Guojing(黄国靖)"
 title_separator          : "-"
 name                     : &name "Guojing Huang"
 description              : &description "Acheng = vegetable chicken"
@@ -21,10 +21,10 @@ repository               : "Acheng0211/acheng0211.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
-  name             : "Acheng"
-  pronouns         : "he"  
-  bio              : "An undergraduate from SUSTech"
+  avatar           : "profile.png"
+  name             : "Guojing Huang"
+  pronouns         : # "he"  
+  bio              : "Undergraduate, MEE, SUSTech"
   location         : "Shenzhen, China"
   employer         : "Southern University of Science and Technology"
   uri              : # URL
@@ -32,11 +32,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=P5l6DJgAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #
   researchgate     : # URL
 
   # Repositories and software development
