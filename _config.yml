@@ -180,6 +180,10 @@ exclude:
   - README
   - tmp
   - vendor
+  # - _pages/talk.md
+  # - _pages/teaching.md
+  # - _pages/portfolio.md
+  # - _pages/year-achive.md
 keep_files:
   - .git
   - .svn

@@ -10,15 +10,21 @@ redirect_from:
 {% include base_path %}
 
 <a href="../files/CV-Guojing Huang.pdf" target="_blank">PDF version of CV</a>
-<iframe src="../files/CV-Guojing Huang.pdf" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="../files/CV-Guojing Huang.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
 
 
 
 Education
 ======
-* B.E. in Robotics Engineering, Southern University of Science and Technology, 2025 (expected)
+* B.Eng in Robotics Engineering, Southern University of Science and Technology, 2025 (expected)
   
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Skills
 ======
 * Skill 1
@@ -27,24 +33,6 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
