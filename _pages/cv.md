@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="../files/CV-Guojing Huang.pdf" target="_blank">PDF.</a>
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
