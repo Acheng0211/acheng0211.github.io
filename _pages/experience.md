@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Experience"
+# title: "Experience"
 permalink: /experience/
 author_profile: true
 ---
 
 
-Research
+Research Experience
 ======
 * Investigating Overconstrained Locomotion using Reinforcement Learning <div align="right">Supervised by Prof. Chaoyang Song    Shenzhen, China     Oct 2023 – Jul 2024</div>
     -	Minimized physical collisions of the model to reduce computational overhead for 38%.
@@ -24,7 +24,7 @@ Research
     -	Published a patent, won Second Prize in the “Xiake Cup” Innovation and Entrepreneurship Competition.
 
 
-Exracurricular
+Exracurricular Experience
 ======
 *	President, the Robot Club and the School Representative Team at SUSTech.    <div align="right">Aug 2023 – Jul 2024</div>	         
     - Led a 30-member team in skills training, robot construction, and competition preparation.
