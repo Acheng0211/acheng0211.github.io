@@ -12,6 +12,7 @@ Honors
 
 - **Outstanding Student 2023**, Southern University of Science and Technology
 <div align="right">2024</div>
+<div style="text-align: right;">2024</div>
 
 Awards
 ======
