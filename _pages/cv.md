@@ -27,13 +27,20 @@ Publications
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming language
+  * Java
+  * Python
+  * C/C++
+  * MATLAB
+  * ROS/ROS2
+  * C#
+  * Arduino
+* Operating system
+  * Windows
+  * Linux
+
+
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<!-- Service and leadership
+====== -->
+
