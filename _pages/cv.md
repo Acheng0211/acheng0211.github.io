@@ -18,12 +18,14 @@ redirect_from:
 Education
 ======
 * B.Eng in Robotics Engineering, Southern University of Science and Technology, 2025 (expected)
-  
+
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
 
 Skills
 ======
