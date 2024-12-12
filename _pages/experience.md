@@ -9,28 +9,31 @@ author_profile: true
 
 Research Experience
 ======
-* Investigating Overconstrained Locomotion using Reinforcement Learning 
+* **Design Principle and Motion Control Simulation of Pseudo-open-chain Mechanism of Overconstrained Quadruped Robot Limb** *(in progress)*
+<div style="text-align: right;">Supervised by **Prof. Chaoyang Song**, Shenzhen, China, Sep 2024 - present</div>
+
+* **Investigating Overconstrained Locomotion using Reinforcement Learning** 
     *	Minimized physical collisions of the model to reduce computational overhead for 38%.
     -	Wrote 1088 lines code in total for configuring the robot's physical properties, initial position, motor parameters, environment integration, articulation motion rate adjustment, random state addition, and reward function design.
     -	Published an ISRR paper and a ReMAR paper
     -	Won 3 prizes of 23rd National CURC RoboCon 2024 Bionic Foot Robot Challenge, and the “Challenge Cup” Guangdong College Student Entrepreneurship Plan Competition Gold Award(0.4%)
-<div style="text-align: right;">Supervised by Prof. Chaoyang Song, Shenzhen, China, Oct 2023 – Jul 2024</div>  
+<div style="text-align: right;">Supervised by **Prof. Chaoyang Song**, Shenzhen, China, Oct 2023 – Jul 2024</div>  
 
-* Flexible Multi-Channel Electrical Stimulation System for Assisting Grasping in Patients with Hemiplegia   
+* **Flexible Multi-Channel Electrical Stimulation System for Assisting Grasping in Patients with Hemiplegia**   
     -	Configured 15 existing robotic arm gripping framework. Developed a method to determine reasonable gripping positions and finger spreading widths. 
     -	Assisted in constructing the hardware system and used MediaPipe for gesture recognition and data extraction.
     -	Published two IEEE ICARM papers with one being second author.
-<div style="text-align: right;">Supervised by Prof. Chenglong Fu, Shenzhen, China, Nov 2023 – Mar 2024</div>
+<div style="text-align: right;">Supervised by **Prof. Chenglong Fu**, Shenzhen, China, Nov 2023 – Mar 2024</div>
 
 * An Effective Head-Based HRI for 6D Robotic Grasping Using Mixed Reality   
     -	Developed a point-cloud diffusion method to recognize and reconfigure objects using Unity, utilized HoloLens2 to enable the robotic arm to complete gripping tasks. 
     -	Published a patent, won Second Prize in the “Xiake Cup” Innovation and Entrepreneurship Competition.
-<div style="text-align: right;">Supervised by Prof. Chenglong Fu, Shenzhen, China, Mar 2023 – Jul 2023</div>	
+<div style="text-align: right;">Supervised by **Prof. Chenglong Fu**, Shenzhen, China, Mar 2023 – Jul 2023</div>	
 
 
 Exracurricular Experience
 ======
-*	President, the Robot Club and the School Representative Team at SUSTech.       	         
+*	**President, the Robot Club and the School Representative Team at SUSTech**      	         
     - Led a 30-member team in skills training, robot construction, and competition preparation.
     - Secured funding, space, and sponsorships.
     - Led a 20-member team to Nanjing University of Science and Technology(Jiangyin) for a 15-day competition, winning 5 National Prizes at the 23rd National CURC RoboCon 2024.
@@ -42,7 +45,7 @@ Exracurricular Experience
     - Discussed academic research and personal development with the Dean of USC’s College of Engineering.
 <div style="text-align: right;">Jan 2024</div>	
 
-*	Minister, Student Union of Shude College. SUSTech       							 
+*	**Minister, Student Union of Shude College, SUSTech**      							 
     - Held weekly meetings with department members and the presidium of the student union. 
     - Led department members to learn the activity planning process, formulate experience documents and paradigms for holding various activities.
     - Communicate with students from other colleges and universities on behalf of the college.

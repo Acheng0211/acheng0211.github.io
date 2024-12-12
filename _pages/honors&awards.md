@@ -16,7 +16,7 @@ Awards
 - **Dean's Award**, Shude College 2024 scholarship *(<0.6%)*
 <div style="text-align: right;">2024</div>
 
-- **Nomination Prize**, School Motto “Innovation” Series Scholarship, Southern University of Science and Technology *(0.2%)*
+- **Nomination Prize**, School Motto “Innovation” Series Scholarship, SUSTech *(0.2%)*
 <div style="text-align: right;">2024</div>
 
 - **First Prize**, 23rd National CURC RoboCon 2024 “Granary Returns” - Operation Skills Challenge *(8/70)*
