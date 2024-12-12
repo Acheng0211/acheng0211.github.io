@@ -8,15 +8,15 @@ author_profile: true
 
 Honors
 ======
-- **Finalist**, 2024 Southern University of Science and Technology Motto Scholarship - “Advance” *(0.2%)*
-<div style="text-align: right;">2024</div>
-
 - **Outstanding Student 2023**, Southern University of Science and Technology
 <div style="text-align: right;">2024</div>
 
 Awards
 ======
 - **Dean's Award**, Shude College 2024 scholarship *(<0.6%)*
+<div style="text-align: right;">2024</div>
+
+- **Nomination Prize**, School Motto “Innovation” Series Scholarship, Southern University of Science and Technology *(0.2%)*
 <div style="text-align: right;">2024</div>
 
 - **First Prize**, 23rd National CURC RoboCon 2024 “Granary Returns” - Operation Skills Challenge *(8/70)*
@@ -28,7 +28,7 @@ Awards
 - **Third Prize**, 23rd National CURC RoboCon 2024 Bionic Foot Robot Challenge - Indoor Obstacle Course
 <div style="text-align: right;">2024</div>
 
-- **Third Priz**, 23rd National CURC RoboCon 2024 Bionic Foot Robot Challenge - Indoor Race Course
+- **Third Prize**, 23rd National CURC RoboCon 2024 Bionic Foot Robot Challenge - Indoor Race Course
 <div style="text-align: right;">2024</div>
 
 - **Innovation Award**, 23rd National CURC RoboCon 2024 Bionic Foot Robot Challenge *(1/86)*
