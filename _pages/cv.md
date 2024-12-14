@@ -17,7 +17,7 @@ redirect_from:
 
 Education
 ======
-* B.Eng in Robotics Engineering, Southern University of Science and Technology, 2025 (expected)
+* 2021 - Now(2025 expected), B.Eng. in Robotics Engineering, Southern University of Science and Technology
 
 
 Publications
@@ -27,8 +27,16 @@ Publications
   {% endfor %}</ul>
 
 
-Skills
+Teaching
 ======
+* Fall 2024, Teaching Assistant, Mechanical Design, ME311, SUSTech
+* 
+
+Skills and Interests
+======
+* Language
+  * Chinese native
+  * English proficient
 * Programming language
   * Java
   * Python
@@ -40,6 +48,9 @@ Skills
 * Operating system
   * Windows
   * Linux
+* Sports
+  * Basketball
+  * Tennis
 
 
   
