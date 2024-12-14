@@ -30,7 +30,7 @@ Publications
 Teaching
 ======
 * Fall 2024, Teaching Assistant, Mechanical Design, ME311, SUSTech
-* 
+
 
 Skills and Interests
 ======
