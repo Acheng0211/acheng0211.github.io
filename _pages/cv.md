@@ -17,6 +17,7 @@ redirect_from:
 
 Education
 ======
+* Jan 2025 - Feb 2025, UT-Austin IA Program 2025 Winter, The University of Texas at Austin
 * 2021 - Now(2025 expected), B.Eng. in Robotics Engineering, Southern University of Science and Technology
 
 
