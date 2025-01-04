@@ -34,7 +34,7 @@ Research Experience
 * <big>**An Effective Head-Based HRI for 6D Robotic Grasping Using Mixed Reality**</big>   
     -	Developed a point-cloud diffusion method to recognize and reconfigure objects using Unity, utilized HoloLens2 to enable the robotic arm to complete gripping tasks. 
     -	Published a **patent** and an **IEEE RA-L** paper, won Second Prize in the “Xiake Cup” Innovation and Entrepreneurship Competition.
-    - Interviewd by Shenzhen TV, reported or transmitted by SUSTech and several self-media channels
+    - Interviewd by Shenzhen TV, reported and transmitted by SUSTech and several self-media channels
 <div style="text-align: right;">Supervised by <b>Prof. Chenglong Fu</b>, Shenzhen, China, Mar 2023 – Jul 2023</div>	
 
 

@@ -30,7 +30,7 @@ Awards
 <!-- Committee of China University Robot Competition -->
 
 - **Second Prize**, 23rd National CURC RoboCon 2024 “Granary Returns” - Main Race(23/84)
-<div style="text-align: right;">Jul 2024</d
+<div style="text-align: right;">Jul 2024</div>
 
 - **Third Prize**, 23rd National CURC RoboCon 2024 Bionic Legged Robot Challenge - Indoor Obstacle Course
 <div style="text-align: right;">Jul 2024</div>
