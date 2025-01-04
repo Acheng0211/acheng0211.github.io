@@ -9,25 +9,32 @@ author_profile: true
 
 Research Experience
 ======
-* **Design Principle and Motion Control Simulation of Pseudo-open-chain Mechanism of Overconstrained Quadruped Robot Limb** *(in progress)*
+* <big>**Design Principle and Motion Control Simulation of Pseudo-open-chain Mechanism of Overconstrained Quadruped Robot Limb** *(in progress)*</big>
 <div style="text-align: right;">Supervised by <b>Prof. Chaoyang Song</b>, Shenzhen, China, Sep 2024 - present</div>
 
-* **Investigating Overconstrained Locomotion using Reinforcement Learning** 
+<br>  
+
+* <big>**Investigating Overconstrained Locomotion using Reinforcement Learning**</big>
     *	Minimized physical collisions of the model to reduce computational overhead for 38%.
     -	Wrote 1088 lines code in total for configuring the robot's physical properties, initial position, motor parameters, environment integration, articulation motion rate adjustment, random state addition, and reward function design.
-    -	Published an ISRR paper and a ReMAR paper
+    -	Published an **ISRR** paper and a **ReMAR** paper
     -	Won 3 prizes of 23rd National CURC RoboCon 2024 Bionic Foot Robot Challenge, and the “Challenge Cup” Guangdong College Student Entrepreneurship Plan Competition Gold Award(0.4%)
-<div style="text-align: right;">Supervised by <b>Prof. Chaoyang Song</b>, Shenzhen, China, Oct 2023 – Jul 2024</div>  
+<div style="text-align: right;">Supervised by <b>Prof. Chaoyang Song</b>, Shenzhen, China, Oct 2023 – May 2024</div>  
 
-* **Flexible Multi-Channel Electrical Stimulation System for Assisting Grasping in Patients with Hemiplegia**   
+<br> 
+
+* <big>**Flexible Multi-Channel Electrical Stimulation System for Assisting Grasping in Patients with Hemiplegia**</big>   
     -	Configured 15 existing robotic arm gripping framework. Developed a method to determine reasonable gripping positions and finger spreading widths. 
     -	Assisted in constructing the hardware system and used MediaPipe for gesture recognition and data extraction.
-    -	Published two IEEE ICARM papers with one being second author.
+    -	Published two **IEEE ICARM** papers with one being second author.
 <div style="text-align: right;">Supervised by <b>Prof. Chenglong Fu</b>, Shenzhen, China, Nov 2023 – Mar 2024</div>
 
-* **An Effective Head-Based HRI for 6D Robotic Grasping Using Mixed Reality**   
+<br> 
+
+* <big>**An Effective Head-Based HRI for 6D Robotic Grasping Using Mixed Reality**</big>   
     -	Developed a point-cloud diffusion method to recognize and reconfigure objects using Unity, utilized HoloLens2 to enable the robotic arm to complete gripping tasks. 
-    -	Published a patent, won Second Prize in the “Xiake Cup” Innovation and Entrepreneurship Competition.
+    -	Published a **patent** and an **IEEE RA-L** paper, won Second Prize in the “Xiake Cup” Innovation and Entrepreneurship Competition.
+    - Interviewd by Shenzhen TV, reported or transmitted by SUSTech and several self-media channels
 <div style="text-align: right;">Supervised by <b>Prof. Chenglong Fu</b>, Shenzhen, China, Mar 2023 – Jul 2023</div>	
 
 
