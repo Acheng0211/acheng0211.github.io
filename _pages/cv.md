@@ -17,7 +17,7 @@ redirect_from:
 
 Education
 ======
-* Jan 2025 - Feb 2025, The International Academy Program (2025 Winter, Engineering maor track), The University of Texas at Austin
+* Jan 2025 - Feb 2025, The International Academy Program (2025 Winter, Engineering major track), The University of Texas at Austin
 * 2021 - Now(2025 expected), B.Eng. in Robotics Engineering, Southern University of Science and Technology
 
 
