@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="../files/CV-Guojing Huang.pdf" target="_blank">PDF version of CV</a>
-<iframe src="../files/CV-Guojing Huang.pdf" width="100%" height="800px" style="border: none;"></iframe>
+<a href="../files/CV-Guojing Huang_long.pdf" target="_blank">PDF version of CV</a>
+<iframe src="../files/CV-Guojing Huang_long.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
 
 
