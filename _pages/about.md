@@ -13,5 +13,5 @@ I am very fortunate to be advised by [Prof. Chaoyang Song](https://www.sustech.e
 
 You can find my CV here: [Guojing Huang's Curriculum Vitae](../files/CV-Guojing Huang.pdf) or directly jump to <a href="/cv/">CV</a> page.
 
-[Email](mailto:12111820@mail.sustech.edu.cn) / [Github](https://github.com/Acheng0211) 
+[Email](mailto:12111820@mail.sustech.edu.cn) / [Google Scholar](https://scholar.google.com/citations?user=P5l6DJgAAAAJ&hl=en) / [Github](https://github.com/Acheng0211)  
 <!-- / [Wechat](../images/wechat.jpg)  -->
