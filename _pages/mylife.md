@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "My Life"
+# title: "My Life"
 permalink: /mylife/
-author_profile: false
+author_profile: true
 ---
 {% include base_path %}
 
