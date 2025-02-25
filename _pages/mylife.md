@@ -1,9 +1,10 @@
 ---
 layout: archive
-# title: "My Life"
+title: "My Life"
 permalink: /mylife/
-author_profile: true
+author_profile: false
 ---
+{% include base_path %}
 
 Challenge Cup, Guangzhou, 2024
 ======
@@ -20,6 +21,8 @@ Challenge Cup, Guangzhou, 2024
   <img src="/images/life/RC2024-CYSong.png" alt="RC2024" width="400" height="300">
   <br>
   <em>With my advisor Prof.Chaoyang Song</em>
+</p>
+<p align="center">
   <img src="/images/life/RC2024-Team.png" alt="RC2024" width="500" height="300">
   <br>
   <em>With the team </em>
