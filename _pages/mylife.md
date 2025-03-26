@@ -12,7 +12,6 @@ Challenge Cup, Guangzhou, 2024
   <img src="/images/life/ChallengeCup.png" alt="2024 Challenge Cup" width="300" height="500">
   <br>
   <em>With the trophy</em>
-  <!-- 2024 Challenge Cup -->
 </p>
 
 23rd CURC ROBOCON, Jiangsu, 2024
@@ -25,7 +24,7 @@ Challenge Cup, Guangzhou, 2024
 <p align="center">
   <img src="/images/life/RC2024-Team.png" alt="RC2024" width="500" height="300">
   <br>
-  <em>With the team </em>
+  <em>With the team</em>
 </p>
 
 IA Program, UT-Austin, 2025
@@ -33,6 +32,6 @@ IA Program, UT-Austin, 2025
 <p align="center">
   <img src="/images/life/UT-YukeZhu.png" alt="UT2025" width="300" height="400">
   <br>
-  <em>With Prof.Yuke Zhu in UT-Austin</em>
+  <em>With Prof.Yuke Zhu</em>
 </p>
 
