@@ -17,9 +17,9 @@ redirect_from:
 
 Education
 ======
-* Aug 2025 - May 2027(expected), Master of Science in Engineering in Robotics, Johns Hopkins University
+* Aug 2025 - Jul 2027(expected), Master of Science in Engineering in Robotics, Johns Hopkins University
 * Jan 2025 - Feb 2025, The International Academy Program (Engineering major track), The University of Texas at Austin
-* Aug 2021 - July 2025, B.Eng. in Robotics Engineering, Southern University of Science and Technology
+* Aug 2021 - Jul 2025, B.Eng. in Robotics Engineering, Southern University of Science and Technology
 
 
 Publications
