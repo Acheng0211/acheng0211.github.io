@@ -9,13 +9,17 @@ author_profile: true
 
 Research Experience
 ======
-* <big>**Design Principle and Motion Control Simulation of Pseudo-open-chain Mechanism of Overconstrained Quadruped Robot Limb** *(in progress)*</big>
-<div style="text-align: right;">Supervised by <b>Prof. Chaoyang Song</b>, Shenzhen, China, Sep 2024 - present</div>
-
+* <big>**Design Principle and Motion Control Simulation of Pseudo-open-chain Mechanism of Overconstrained Quadruped Robot Limb**</big>
+    - Developed a novel overconstrained quadrupedal robotic limb based on Yu & Baker's 6R mechanism, achieving structural integrity (factor of safety >2.5) and kinematic precision through topological optimization and additive manufacturing.
+    - Demonstrated morphological and functional equivalence to conventional open-chain designs via CAD simulations.
+    - Implemented a hierarchical reinforcement learning framework (RSL_RL) in NVIDIA Isaac Sim with proprioceptive-terrain fusion state representation, achieving 92% terrain adaptation success rate in unstructured environments.
+    - Forthcoming paper for IEEE RA-L; Preparing an extended version for IJRR and IEEE TRO; Open-source framework with URDF specifications and IsaacLab integration *Release v1.0 pending*.
+<div style="text-align: right;">Supervised by <b>Prof. Chaoyang Song</b>, Shenzhen, China, Sep 2024 - Jul 2025</div>
+            
 <br>  
 
 * <big>**Investigating Overconstrained Locomotion using Reinforcement Learning**</big>
-    *	Minimized physical collisions of the model to reduce computational overhead for 38%.
+    -	Minimized physical collisions of the model to reduce computational overhead for 38%.
     -	Wrote 1088 lines code in total for configuring the robot's physical properties, initial position, motor parameters, environment integration, articulation motion rate adjustment, random state addition, and reward function design.
     -	Published an **ISRR** paper and a **ReMAR** paper
     -	Won 3 prizes of 23rd National CURC RoboCon 2024 Bionic Foot Robot Challenge, and the “Challenge Cup” Guangdong College Student Entrepreneurship Plan Competition Gold Award(0.4%)

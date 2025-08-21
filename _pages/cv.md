@@ -9,16 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="../files/CV-Guojing Huang_long.pdf" target="_blank">PDF version of CV</a>
-<iframe src="../files/CV-Guojing Huang_long.pdf" width="100%" height="800px" style="border: none;"></iframe>
+<a href="../files/CV_GuojingHuang_en.pdf" target="_blank">PDF version of CV</a>
+<iframe src="../files/CV_GuojingHuang_en.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
 
 
 
 Education
 ======
+* Aug 2025 - May 2027(expected), Master of Science in Engineering in Robotics, Johns Hopkins University
 * Jan 2025 - Feb 2025, The International Academy Program (Engineering major track), The University of Texas at Austin
-* 2021 - Now(2025 expected), B.Eng. in Robotics Engineering, Southern University of Science and Technology
+* Aug 2021 - July 2025, B.Eng. in Robotics Engineering, Southern University of Science and Technology
 
 
 Publications
