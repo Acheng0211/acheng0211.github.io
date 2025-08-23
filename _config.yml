@@ -21,12 +21,12 @@ repository               : "Acheng0211/acheng0211.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Guojing Huang"
-  pronouns         : # "he"  
-  bio              : "Robotics MSE student, Johns Hopkins University"
-  location         : "Baltimore, United States"
-  employer         : "Johns Hopkins University"
+  avatar: "profile.png"
+  name: "Guojing Huang"
+  pronouns: # "he"  
+  bio: "Robotics MSE student, Johns Hopkins University"
+  location: "Baltimore, United States"
+  employer: "Johns Hopkins University"
   uri              : # URL
   email            : "hguojin1@jh.edu" 
 
