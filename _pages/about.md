@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Robotics MSE student in [The Laboratory for Computational Sensing and Robotics (LCSR)](https://lcsr.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu/). I am also a full-time research assistant in [Social Cognitive AI (SCAI) Lab](https://scai.cs.jhu.edu/), advised by [Prof. Tianmin Shu](https://www.tshu.io/).
+I'm a Robotics MSE student in [The Laboratory for Computational Sensing and Robotics (LCSR)](https://lcsr.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu/). I am also a full-time research assistant in [Social Cognitive AI (SCAI) Lab](https://scai.cs.jhu.edu/), advised by [Prof. Tianmin Shu](https://www.tshu.io/), currently working on a project related to VLA.
 
 I earned my bachelor degree in Department of Mechanical and Energy Engineering, Southern University of Science and Technology=, majoring in Robotics Engineering. I am very fortunate to be advised by [Prof. Chaoyang Song](https://bionicdl.ancorasir.com/) and [Prof. Chenglong Fu](https://www.harlab.site/) during my undergraduate life. I have worked on several projects related to quadruped locomotion, FES system design, and mixed-reality HRI.
 
