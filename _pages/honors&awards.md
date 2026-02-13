@@ -8,6 +8,12 @@ author_profile: true
 
 Honors
 ======
+- **Excellent Undergraduate Graduate**, Southern University of Science and Technology
+<div style="text-align: right;">Jun 2025</div>
+
+- **Excellent Undergraduate Graduation Project (thesis)**, Southern University of Science and Technology
+<div style="text-align: right;">Jun 2025</div>
+
 - **Outstanding Student 2024**, Southern University of Science and Technology
 <div style="text-align: right;">Dec 2024</div>
 
