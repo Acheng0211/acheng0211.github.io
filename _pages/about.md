@@ -17,7 +17,7 @@ I’m actively seeking a **full-time internship for Summer 2026** and am open to
 
 I am very fortunate to be advised by [Prof. Chaoyang Song](https://www.sustech.edu.cn/en/faculties/songchaoyang.html) of [BionicDL Lab](https://bionicdl.ancorasir.com/) from [Department of Mechanical and Energy Engineering](https://mee.sustech.edu.cn/), SUSTech since 2023. Meanwhile, I was advised by [Prof. Chenglong Fu](https://www.sustech.edu.cn/en/faculties/fuchenglong.html) from [Department of Mechanical and Energy Engineering](https://mee.sustech.edu.cn/), SUSTech from 2022 to 2024. -->
 
-You can find my CV here: [Guojing Huang's Curriculum Vitae](../files/CV_GuojingHuang_en.pdf) or directly jump to <a href="/cv/">CV</a> page.
+You can find my CV here: [Guojing Huang's Curriculum Vitae](..\files\CV-GuojingHuang_en.pdf) or directly jump to <a href="/cv/">CV</a> page.
 
 [Email](mailto:hguojin1@jh.edu) / [Google Scholar](https://scholar.google.com/citations?user=P5l6DJgAAAAJ&hl=en) / [Github](https://github.com/Acheng0211)  
 <!-- / [Wechat](../images/wechat.jpg)  -->
